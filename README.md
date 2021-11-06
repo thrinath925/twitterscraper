@@ -6,4 +6,9 @@ the tweets You may got have 50% duplication this is bcoz page scrolling.. you ca
 
 in my test case of program  total tweets scraped in 70 Miniuts is 1648 and total uniqu tweets are 1087 from 1648
 
-Read python comments in program too understands code 
+Note:- Tweeter often changes the Xpaths soo if the script is not working try to find correct xpaths in case the program wont work properly..
+
+
+Read python comments in program too understand code blocks....
+
+
